@@ -44,7 +44,7 @@ class App extends Component {
                         <input ref="playerSymbol" type="text" className="symbol" placeholder="Your Symbol" />
                         <input ref="compSymbol" type="text" className="symbol" placeholder="Opponent symbol" />
                         {this.state.error}
-                        <input type="submit" value="Play" />
+                        <input className="playbutton" type="submit" value="Play" />
                     </form>
                 </div>
             </div>
