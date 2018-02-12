@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Bangers);
 
-body {	
+body {
   background-color: rgb(209, 236, 255);
 }
 
@@ -91,10 +91,10 @@ input {
   background-color: #f7fde6;
   color: #4b4b4a;
   font-size:14px;
-} 
+}
 
 .board {
-   width:300px;
+    width:300px;
     height:300px;
     margin:0 auto;
 }
@@ -104,4 +104,4 @@ input {
     height:100px;
     margin:0 auto;
     border:1px solid black;
-} 
+}

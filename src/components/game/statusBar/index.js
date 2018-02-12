@@ -1,5 +1,5 @@
 import React from 'react';
- 
- export default () => {
-     return (<h1>Status Bar</h1>)
- }
+
+export default () => {
+    return (<h1>Status Bar</h1>)
+}
