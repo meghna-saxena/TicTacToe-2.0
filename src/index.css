@@ -45,8 +45,8 @@ h2 {
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 8px 12px;
-    width: 100%;
+    margin: 12px auto;
+    width: 75%;
     transition-duration: 0.4s;
     cursor: pointer;
 }
@@ -74,12 +74,13 @@ h2 {
 
 form {
     margin: 150px 150px 150px;
+    color: red;
 }
 
 input {
     width: 100%;
     padding: 12px 20px;
-    margin: 8px 12px;
+    margin: auto;
     box-sizing: border-box;
     border: none;
     background-color: #3CBC8D;
