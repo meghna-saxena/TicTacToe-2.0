@@ -5,7 +5,7 @@ The size of playfield is configurable between 3x3 to 10x10, and the user symbol 
 
 ### Getting Started
 
-> git clone https://github.com/meghna-saxena/TicTacToe-2.0.git
-> cd TicTacToe-2.0
-> yarn install
-> yarn start
+- git clone https://github.com/meghna-saxena/TicTacToe-2.0.git
+- cd TicTacToe-2.0
+- yarn install
+- yarn start
