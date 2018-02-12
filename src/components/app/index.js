@@ -31,6 +31,7 @@ class App extends Component {
 
     render() {
         return (
+            <header>
             <div className="tic-tac-toe">
                 <h1>Tic Tac Toe</h1>
                 <div className="boardsize">
@@ -47,6 +48,7 @@ class App extends Component {
                     </form>
                 </div>
             </div>
+            </header>
         );
     }
 

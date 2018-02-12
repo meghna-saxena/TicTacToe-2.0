@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Bangers);
 
 body {
-  background-color: rgb(209, 236, 255);
+  background-color: rgb(35, 37, 39);
 }
 
 h1 {
@@ -104,4 +104,24 @@ input {
     width:250px;
     height:100px;
     margin: auto;
+}
+
+
+header {
+    background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(images/hero.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    background-attachment: fixed;
+}
+
+.hero-text-box {
+    position: absolute;
+    width: 1140px;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
 }
